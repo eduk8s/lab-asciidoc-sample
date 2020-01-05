@@ -1,0 +1,7 @@
+apiVersion: training.eduk8s.io/v1alpha1
+kind: WorkshopRequest
+metadata:
+  name: lab-asciidoc-sample
+spec:
+  environment: lab-asciidoc-sample
+  token: lab-asciidoc-sample
