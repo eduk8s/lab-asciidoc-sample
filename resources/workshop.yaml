@@ -7,7 +7,8 @@ spec:
   title: AsciiDoc Sample
   description: A sample workshop using AsciiDoc
   url: https://github.com/eduk8s/lab-asciidoc-sample
-  image: quay.io/eduk8s/lab-asciidoc-sample:master
+  #image: quay.io/eduk8s/lab-asciidoc-sample:master
+  content: github.com/eduk8s/lab-asciidoc-sample
   duration: 15m
   session:
     budget: small
