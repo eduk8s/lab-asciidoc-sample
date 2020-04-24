@@ -3,9 +3,11 @@ kind: Workshop
 metadata:
   name: lab-asciidoc-sample
 spec:
-  vendor: eduk8s.io
   title: AsciiDoc Sample
   description: A sample workshop using AsciiDoc
+  vendor: eduk8s.io
+  difficulty: beginner
+  duration: 15m
   url: https://github.com/eduk8s/lab-asciidoc-sample
   #image: quay.io/eduk8s/lab-asciidoc-sample:master
   content: github.com/eduk8s/lab-asciidoc-sample
