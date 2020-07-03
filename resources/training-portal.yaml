@@ -3,9 +3,8 @@ kind: TrainingPortal
 metadata:
   name: lab-asciidoc-sample
 spec:
-  portal:
+  workshops:
+  - name: lab-asciidoc-sample
     capacity: 1
     expires: 60m
     orphaned: 5m
-  workshops:
-  - name: lab-asciidoc-sample
