@@ -18,14 +18,21 @@ echo "standard code block"
 echo "execute in terminal 1"
 ----
 
+#### Click text to execute (with target)
+
 [source,bash,role=execute-1]
 ----
-echo "execute in terminal 1 (annotated)"
+echo "execute in terminal 1"
 ----
 
 [source,bash,role=execute-2]
 ----
-echo "execute in terminal 2 (annotated)"
+echo "execute in terminal 2"
+----
+
+[source,bash,role=execute-all]
+----
+echo "execute in all terminals"
 ----
 
 #### Click text to copy
