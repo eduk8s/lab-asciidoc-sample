@@ -12,7 +12,6 @@ spec:
   content:
     #image: quay.io/eduk8s/lab-asciidoc-sample:master
     files: github.com/eduk8s/lab-asciidoc-sample
-  duration: 15m
   session:
     budget: small
     applications:
