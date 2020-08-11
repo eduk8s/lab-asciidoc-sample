@@ -3,6 +3,9 @@ kind: TrainingPortal
 metadata:
   name: lab-asciidoc-sample
 spec:
+  portal:
+    registration:
+      type: anonymous
   workshops:
   - name: lab-asciidoc-sample
     capacity: 1
